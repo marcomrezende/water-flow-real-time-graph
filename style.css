@@ -1,0 +1,20 @@
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#ufam{
+    height: 250px;
+    width: 250px;
+}
+
+#eq{
+    height: 250px;
+    width: 250px;
+}
+
+h1{
+    font-size: 60px;
+}
